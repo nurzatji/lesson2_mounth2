@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<!--///#ДЗ2-->
+<!--    1) Добавить статичный фрагмент-->
+<!--    2) Добавить текствью - 0-->
+<!--    3) Добавить кнопку +1-->
+<!--    4. Добавить кнопку -1-->
+<!--    4) При нажатии на соответствующую кнопку текст должен увеличиваться на +1 или же уменьшаться на -1-->
+<!--    Дедлайн 14.01.2023 23:59-->
